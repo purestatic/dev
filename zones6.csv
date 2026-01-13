@@ -1,3 +1,4 @@
+#automap RITHMIC,,,,,,,
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER, DRAW_NOTE_PRICE_HORIZONTAL_LINE
 NQH6,25694.5,INST 25692.5-25696.5,#ffffff,#1E90FF66,left,17,True
 NQH6,25741.25,INST 25739.25-25743.25,#ffffff,#1E90FF66,left,17,True
